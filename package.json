@@ -1,0 +1,11 @@
+{
+  "name": "ic-graphQL-EH",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:instant-coffee/ic-graphQL-EH.git",
+  "author": "Lachlan MacKenzie <lachlanrm@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "graphql": "^0.13.2"
+  }
+}
